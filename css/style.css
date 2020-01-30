@@ -1,0 +1,385 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background: #000000;
+	padding: 10px 0;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	height: 50%;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 65px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #BEBEBE;
+	text-decoration: underline;
+}
+
+.box {
+	width: 100%;	
+}
+
+footer {
+	background: url("imagens/footer.png");
+	}
+
+main {
+	
+}
+
+form {
+	display: block;
+	position: relative;
+	width: 450px;
+	height: 730px;
+	top: 20%;
+	left: 33%;	
+}
+
+form label, form legend {
+	display: block;
+	font-size: 15px;
+	margin: 0 0 10px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 100%;
+}
+
+.checkbox {
+	margin: 20px 0;
+	padding-top: 15px;
+}
+
+.space {
+	padding-top: 15px;
+}
+
+/*.contato label, .input-group legend {
+	display: block;
+	margin: 0 0 5px;
+	font-size: 20px;
+}
+
+.campo-padrao, textarea {
+	display: block;
+	margin: 0 0 30px;
+	padding: 10px 20px;
+	width: 50%;
+	border: 1px solid #aaa;
+}
+
+.input-group {
+	margin: 0 0 20px;
+}
+
+.newsletter {
+	margin: 0 0 20px;
+}
+
+.funcionamento {
+	width: 940px;
+	margin: 0 auto 40px;
+}*/
+
+.enviar {
+	width:20%;
+	padding: 15px 20px;
+	background: #000000;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	position:relative;
+	top: 20px;
+	left: 200px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.enviar:hover {
+	background: #BEBEBE;
+	transform: scale(1.1);
+}
+
+table {
+	margin: 20px 0 40px;
+	border: 0;
+	width: 20px;
+	vertical-align: ="center";
+}
+
+thead {
+	background: #FFFFFF;
+	color: white;
+	font-weight: bold;
+	width: 20px;
+	height: 20px;
+}
+
+td, th {
+	border: 1px solid #FFFFFF;
+	padding: 5px 15px;
+	width: 20px;
+	height: 20px;
+}
+
+
+/* css da página inicial */
+.banner {
+	width:100%;
+}
+
+.imagem {
+	padding-top: 20px;
+	width: 150px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo-principal {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	margin: 0 0 1em;
+	clear: left;
+}
+
+.principal {
+	padding: 3em 0;
+	background: #FFFFFF;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal p {
+	margin: 0 0 1em;
+	text-align: justify;
+	font-size: 20px;
+ 	line-height: 1.5;
+}
+
+.principal strong {
+	font-weight: bold;
+}
+
+.principal em {
+	font-style: italic;
+}
+
+.alzmef {
+	width: 300px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	}
+
+.mapa {
+	padding: 3em 0;
+}
+
+.mapa-conteudo {
+	width: 600px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mapa p {
+	margin: 0 0 2em;
+	text-align: center;
+	font-size: 20px;
+ 	line-height: 1.5;
+}
+
+.saiba-mais {
+	padding: 3em 0;
+	background: #FFFFFF;
+}
+
+.conteudo-saiba-mais {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.lista-saiba-mais {
+	width: 100%;
+	display: inline-block;
+	vertical-align: top;
+    color: #000000;
+}
+
+.lista-saiba-mais li {
+	display: inline;
+	margin: 5px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.lista-saiba-mais a {
+	color: #000000;
+	text-decoration: none;
+	}
+
+.lista-saiba-mais a:hover {
+	color: #BEBEBE;
+	text-decoration: underline;
+	}
+
+.servicos {
+	padding: 3em 0;
+	background: #FFFFFF;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.conteudo-servicos{
+	width: 640px;
+	margin: 0 auto;
+}
+
+.lista-servicos{
+	width: 40%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.itens {
+	line-height: 1.5;
+}
+
+.itens:first-child {
+	font-weight: bold;
+}
+
+.itens:before {
+	content: "🟊";
+}
+
+.sobre {
+	padding: 3em 0;
+	background: #FFFFFF;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.autoria {
+	padding: 3em 0;
+	background: #FFFFFF;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.autoria p {
+	margin: 0 0 1em;
+	text-align: justify;
+	font-size: 20px;
+ 	line-height: 1.5;
+}
+
+.autoria em {
+	font-style: italic;
+}
+
+.autora {
+	width: 120px;
+	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.saiba-mais {
+	padding: 3em 0;
+	background: #FFFFFF;
+}
+
+.conteudo-saiba-mais {
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.lista-saiba-mais {
+	width: 100%;
+	display: inline-block;
+	vertical-align: top;
+    color: #000000;
+}
+
+.lista-saiba-mais li {
+	display: inline;
+	margin: 5px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.lista-saiba-mais a {
+	color: #000000;
+	text-decoration: none;
+	}
+
+.lista-saiba-mais a:hover {
+	color: #BEBEBE;
+	text-decoration: underline;
+	}
+
+/* Página de contato */
+
+.contato {
+	width: 360px;
+	margin: 40px auto;
+}
+
+.itens-contato {
+	width: 360px;
+	margin: 40px auto;
+	display: block;
+	}
+
+/*table {
+	margin: 10px 0 0;
+}
+
+th  {
+	background: #777777;
+	color: #FFFFFF;
+}
+
+
+td, th {
+	border: 1px solid #000000;
+	padding: 5px 20px;
+}*/

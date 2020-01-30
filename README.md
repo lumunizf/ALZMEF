@@ -13,7 +13,7 @@
 
 <br/>
 <div align="center">
-<img src="imagens/logo-white.png" alt="Logo Alzmef" width="250"/>
+<img src="imagens/logo-white.png" alt="Logo Alzmef Consultoria" width="250"/>
 </div>
 <br/>
 

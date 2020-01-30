@@ -1,4 +1,4 @@
-# Alzmef
+# PROJETO ALZMEF
 
 [![GitHub license](https://img.shields.io/github/license/lumunizf/alzmef)](https://github.com/lumunizf/alzmef/blob/master/LICENSE)
 ![GitHub top language](https://img.shields.io/github/languages/top/lumunizf/alzmef)
@@ -9,7 +9,7 @@
 [![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
-:star: Projeto prático da criação de um site institucional.
+:star: Projeto do site institucional da Alzmef Consultoria Ltda.
 
 <br/>
 <div align="center">
@@ -17,9 +17,9 @@
 </div>
 <br/>
 
-## ALZMEF CONSULTORIA
+## A ALZMEF CONSULTORIA ©
 
-Este é o site institucional da empresa fictícia **ALZMEF CONSULTORIA** e foi criado exclusivamente para exercitar o conhecimento adquirido em HTML5 e CSS3, em um primeiro momento, e JAVASCRIPT no seu processo de evolução.
+Este é o site institucional da empresa ***fictícia*** **ALZMEF CONSULTORIA** e foi criado exclusivamente para exercitar o conhecimento adquirido em HTML5 e CSS3, em um primeiro momento, e JAVASCRIPT no seu processo de evolução.
 
 As melhorias implementadas no site, como design responsivo (mobile friendly), SEO, UX e opções de acessibilidade são graduais e acompanham a curva de aprendizado com as linguagens de programação web e técnicas do universo front-end.
 

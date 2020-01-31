@@ -6,6 +6,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/lumunizf/alzmef)](https://img.shields.io/github/issues-closed/lumunizf/alzmef)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/alzmef)](https://github.com/lumunizf/alzmef/commits/master)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lumunizf/alzmef/Jekyll_CI)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lumunizf/ALZMEF)
 [![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 

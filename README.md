@@ -10,6 +10,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/lumunizf/alzmef)](https://img.shields.io/github/issues-closed/lumunizf/alzmef)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/alzmef)](https://github.com/lumunizf/alzmef/commits/master)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lumunizf/alzmef/Jekyll_CI)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/363a2558fca34d07a8c502240220c9c4)](https://www.codacy.com/manual/lumunizf/ALZMEF?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lumunizf/ALZMEF&amp;utm_campaign=Badge_Grade)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lumunizf/ALZMEF)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40lumunizf-blue.svg?style=popout&logo=twitter)](https://twitter.com/lumunizf)
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)

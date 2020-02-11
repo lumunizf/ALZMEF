@@ -4,10 +4,10 @@ Release Notes da versão 1.0.0-beta.
 
 A versão inicial do projeto de site institucional contempla:
 
-* Página inicial com links para as demais páginas:
-  * Página **Serviços**, descrevendo os serviços da Alzmef Consultoria.
-  * Página **Fale Conosco** com um formulário simples, ainda sem  captura de dados.
-  * Página **Sobre** explicando os detalhes do projeto.
+*  Página inicial com links para as demais páginas:
+*  Página **Serviços**, descrevendo os serviços da Alzmef Consultoria.
+*  Página **Fale Conosco** com um formulário simples, ainda sem  captura de dados.
+*  Página **Sobre** explicando os detalhes do projeto.
 
 ## Melhorias identificadas | Issues abertas
 

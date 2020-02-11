@@ -1,5 +1,5 @@
 <a href="https://lumunizf.github.io/">
-    <img src="imagens/logo-white.png" alt="Logo Alzmef" title="Alzmef" align="right" height="60" />
+    <img src="imagens/logo-white.png" alt="Logo Alzmef" title="Alzmef" align="right" height="80" />
 </a>
 
 # PROJETO ALZMEF
@@ -14,7 +14,11 @@
 [![Twitter Follow](https://img.shields.io/badge/follow-%40lumunizf-blue.svg?style=popout&logo=twitter)](https://twitter.com/lumunizf)
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
+------
+
 :star: Projeto do site institucional da Alzmef Consultoria Ltda.
+
+------
 
 ## A ALZMEF CONSULTORIA ©
 

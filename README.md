@@ -1,3 +1,7 @@
+<a href="https://lumunizf.github.io/">
+    <img src="imagens/logo-white.png" alt="Logo Alzmef" title="Alzmef" align="right" height="60" />
+</a>
+
 # PROJETO ALZMEF
 
 [![GitHub license](https://img.shields.io/github/license/lumunizf/alzmef)](https://github.com/lumunizf/alzmef/blob/master/LICENSE)
@@ -7,16 +11,10 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/alzmef)](https://github.com/lumunizf/alzmef/commits/master)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/lumunizf/alzmef/Jekyll_CI)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/lumunizf/ALZMEF)
-[![Twitter: @lumunizf](https://img.shields.io/badge/Twitter-@lumunizf-blueviolet.svg?style=flat)](https://twitter.com/lumunizf) 
+[![Twitter Follow](https://img.shields.io/badge/follow-%40lumunizf-blue.svg?style=popout&logo=twitter)](https://twitter.com/lumunizf)
 [![Website](https://img.shields.io/website?url=https://medium.com/@lumunizf)](https://medium.com/@lumunizf)
 
 :star: Projeto do site institucional da Alzmef Consultoria Ltda.
-
-<br/>
-<div align="center">
-<img src="imagens/logo-white.png" alt="Logo Alzmef Consultoria" width="250"/>
-</div>
-<br/>
 
 ## A ALZMEF CONSULTORIA ©
 
